@@ -25,18 +25,3 @@ This repository showcases a project using ArcGIS StoryMap and Insights to analyz
 3. **Sources of Infection**:
    - Close contact and travel-related cases were significant contributors to the spread.
 
----
-
-### **Tips for Adding the Link**
-- **Ensure the Link is Public**:
-   - Test the link in an incognito browser to confirm it works without login credentials.
-- **Keep the Repository Clean**:
-   - Avoid adding unnecessary files; the README and link are sufficient if this is a link-only repository.
-
----
-
-### **Advantages of Linking**
-- Employers or collaborators can directly interact with the StoryMap.
-- It keeps your repository lightweight while effectively showcasing your project.
-
-Let me know if you need help creating the repository or formatting the README! 😊
